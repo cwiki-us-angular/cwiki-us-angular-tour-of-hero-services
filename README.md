@@ -1,10 +1,4 @@
-# CwikiUsAngularTourOfHeroServices
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Could not find module "@angular-devkit/build-angular" Error
+# angular-754aeh
 
 Run `yarn install` or `npm install` to install this module
 
